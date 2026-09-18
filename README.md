@@ -6,7 +6,7 @@ This repository contains my solutions to programming and problem-solving challen
 
 ---
 
-## 👨‍💻 About This Repository
+## 👨‍💻 About This Repository 1
 
 I created this repository to:
 

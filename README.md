@@ -10,7 +10,7 @@ This repository contains my solutions to programming and problem-solving challen
 
 I created this repository to:
 
-- Practice Python programming
+- Practice Python programming 1
 - Improve problem-solving skills
 - Strengthen logical and computational thinking
 - Practice algorithms and data structures
